@@ -1,5 +1,5 @@
-<p align='center'>
-  <img src="https://github.com/Startvest/frontend/blob/main/public/logo-bar.png?raw=true" alt='Startvest logo' height='100%' >
+<p align='left'>
+  <img src="https://github.com/Hanif-adedotun/Bluegram/blob/main/Bluegram%20logo.png?raw=true" alt='Bluegram logo' height='200px' >
 </p>
 
 # Bluegram
